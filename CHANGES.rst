@@ -6,7 +6,7 @@ Changes
 
 - Make it possible to adjust the attributes considered when comparing nodes.
 - Add parameter for ignoring attributes in comparison.
-
+- Added an argument to return error code 1 when there are differences between the files
 
 2.4 (2019-10-09)
 ----------------
