@@ -5,6 +5,7 @@ Changes
 ----------------
 
 - Make it possible to adjust the attributes considered when comparing nodes.
+- Add parameter for ignoring attributes in comparison.
 
 
 2.4 (2019-10-09)
